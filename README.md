@@ -1,11 +1,11 @@
 # React / Redux Spotify Pocket SPA
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3194f71c-2da4-4146-b1ba-3c14e024ec2f/deploy-status)](https://app.netlify.com/sites/viniciusvinna-react-pocket-spotify/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3194f71c-2da4-4146-b1ba-3c14e024ec2f/deploy-status)](https://app.netlify.com/sites/pocket-spotify-aceleradev-react/deploys)
 ## Objetivo:
 Neste último desafio você aplicará todo o conhecimento adquirido durante o curso e terá que desenvolver uma versão _**pocket**_ do Spotify, integrada a [Web API](https://developer.spotify.com/documentation/web-api) oficial, utilizando `fluxo implícito de concessão` (Implicit Grant Flow) para realizar a autenticação do usuário, permite que ele acesse rotas privadas dentro da aplicação.
 
 ## Referência do projeto finalizado e em ambiente de produção:
- [https://viniciusvinna-react-pocket-spotify.netlify.app](https://viniciusvinna-react-pocket-spotify.netlify.app)
+ [https://pocket-spotify-aceleradev-react.netlify.app](https://pocket-spotify-aceleradev-react.netlify.app)
 
 <img src="docs/spotify-pocket.gif" width="320" style="border: 2px solid black; margin: auto">
 

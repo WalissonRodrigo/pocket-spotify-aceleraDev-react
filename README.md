@@ -9,12 +9,8 @@ Neste último desafio você aplicará todo o conhecimento adquirido durante o cu
 
 <img src="docs/spotify-pocket.gif" width="320" style="border: 2px solid black; margin: auto">
 
-## Código Fonte:
-Caso precise consultar o código fonte original para tirar dúvidas, você poderá acessar:
->  [https://github.com/ViniciusVinna/react-spotify-pocket](https://github.com/ViniciusVinna/react-spotify-pocket)
-
 ## Tópicos:
-Neste desafio você vai praticar os seus conhecimentos em:
+Neste desafio foi abordado os seguintes conhecimentos em:
 
 * Fetch API
 * JS Funcional: `Map`, `Filter`
